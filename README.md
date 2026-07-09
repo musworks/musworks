@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=musworks&bg_color=00000000&color=DA70D6&title_color=00000000&line=C8A2FF&point=F5D0FE&area=true&hide_border=true&v=2)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=musworks&bg_color=00000000&color=DA70D6&title_color=00000000&line=C8A2FF&point=F5D0FE&area=true&hide_border=true&v=6)
 
 </div>
 
