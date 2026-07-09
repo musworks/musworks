@@ -1,54 +1,28 @@
 <div align="center">
 
-# HI, I have legal name but not real name, siapa juga yang punya nama nyata? nama bukan bagian dari realitas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=DA70D6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mus" alt="Typing SVG" />
 
-Biology student · Digital garden keeper · Small tool maker
+<br>
+
+<a href="https://musnotes.my.id"><img src="https://img.shields.io/badge/digital_garden-musnotes.my.id-2b2039?style=for-the-badge&logo=hugo&logoColor=DA70D6" alt="Digital Garden"></a>
 
 </div>
 
----
+## stack
 
-### 🧬 About
-
-I study biology and collect questions   
-My interests orbit around neurobiology, cognition, ecology, and the strange behavior of organisms called humans.
-
-Sometimes I write.  
-Sometimes I build small web tools.  
-Sometimes I stare at a concept until it becomes suspicious.
+![HTML](https://img.shields.io/badge/HTML-2b2039?style=for-the-badge&logo=html5&logoColor=F5D0FE)
+![CSS](https://img.shields.io/badge/CSS-2b2039?style=for-the-badge&logo=css3&logoColor=C8A2FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-2b2039?style=for-the-badge&logo=javascript&logoColor=DA70D6)
+![Hugo](https://img.shields.io/badge/Hugo-2b2039?style=for-the-badge&logo=hugo&logoColor=F3C4FB)
+![Git](https://img.shields.io/badge/Git-2b2039?style=for-the-badge&logo=git&logoColor=E6B3FF)
 
 ---
 
-### 🛠️ Tools
-
-![HTML](https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![Hugo](https://img.shields.io/badge/Hugo-111827?style=for-the-badge&logo=hugo)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-
----
-
-### 🌱 Projects
-
-- [MusNotes](https://musnotes.my.id)  
-  A digital garden for biology, essays, fragments, and quiet intellectual debris.
-
-- [Axiom Room](https://axiom-room.musnotes.my.id)  
-  A small logic puzzle room.
-
-- [Muscrypt](https://muscrypt.musnotes.my.id)  
-  An experimental cipher toy.
-
----
-
-### 📊 Stats
+## activity, for the curious organism
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musworks&show_icons=true&theme=merko&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musworks&layout=compact&theme=merko&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=musworks&bg_color=00000000&color=DA70D6&line=C8A2FF&point=F5D0FE&area=true&hide_border=true)
 
 </div>
 
@@ -56,6 +30,6 @@ Sometimes I stare at a concept until it becomes suspicious.
 
 <div align="center">
 
-_“A garden is not a database. It is a memory that learned photosynthesis.”_
+_“Kebingungan adalah hak segala bangsa ”_
 
 </div>
