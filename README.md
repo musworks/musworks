@@ -18,7 +18,7 @@
 
 ---
 
-## activity, for the curious organism
+### activity, for the curious organism
 
 <div align="center">
 
